@@ -8,3 +8,6 @@
 
 # Problem 
 Prepare the right strategy and business planning for the future.
+Early Insight from the data
+Entity Relationship Diagram (ERD)
+![ERD](https://drive.google.com/file/d/17PD4gRlcFEMx_z2peRG9sjyG6G1kz0lK/view?usp=sharing
