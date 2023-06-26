@@ -10,4 +10,4 @@
 Prepare the right strategy and business planning for the future.
 ## Early Insight from the data
 1. Entity Relationship Diagram (ERD)
-![ERD](https://drive.google.com/file/d/17PD4gRlcFEMx_z2peRG9sjyG6G1kz0lK/view?usp=sharing
+![enter image description here](##%20Early%20Insight%20from%20the%20data%201.%20Entity%20Relationship%20Diagram%20%28ERD%29%20!%5BERD%5D%28https://drive.google.com/file/d/17PD4gRlcFEMx_z2peRG9sjyG6G1kz0lK/view?usp=sharing)
