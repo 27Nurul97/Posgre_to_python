@@ -9,5 +9,5 @@
 # Problem 
 Prepare the right strategy and business planning for the future.
 ## Early Insight from the data
-1. Entity Relationship Diagram (ERD)
-![enter image description here](##%20Early%20Insight%20from%20the%20data%201.%20Entity%20Relationship%20Diagram%20%28ERD%29%20!%5BERD%5D%28https://drive.google.com/file/d/17PD4gRlcFEMx_z2peRG9sjyG6G1kz0lK/view?usp=sharing)
+1. Entity Relationship Diagram (ERD)<br>
+![ERD](https://github.com/NurulIlahiHusnah/Posgre_to_python/assets/125198828/ed26a39a-c9a1-4d36-b7c1-e057c7e22bcf)
