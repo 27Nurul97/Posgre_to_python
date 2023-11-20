@@ -17,6 +17,8 @@ For this analysis, the tools and specific data employed were as follows:
 
 ![Anayzing E-commerce](https://github.com/NurulIlahiHusnah/Analyzing-eCommerce-Business-Performance/assets/125198828/bc0a7c97-8f3f-44e3-8524-6c6a3e4652fb)
 
+
+
 # Problem 
 Prepare the right strategy and business planning for the future.
 ## Early Insight from the data
@@ -59,3 +61,7 @@ Prepare the right strategy and business planning for the future.
 <br>
 • For payment methods, customers are increasingly literate with the use of non-cash payments, this can be seen from the growth in payment methods which increase every year. In this case we can provide offers/discounts for non-cash users to be able to trigger customer satisfaction and increase customer loyalty to the product.
 
+
+## 🔗 Links
+![tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+https://public.tableau.com/app/profile/nurul.ilahi.husnah/viz/MiniProjectwithSQL/Dashboard1
