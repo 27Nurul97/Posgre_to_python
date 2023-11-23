@@ -59,3 +59,5 @@ Prepare the right strategy and business planning for the future.
 <br>
 • For payment methods, customers are increasingly literate with the use of non-cash payments, this can be seen from the growth in payment methods which increase every year. In this case we can provide offers/discounts for non-cash users to be able to trigger customer satisfaction and increase customer loyalty to the product.
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurul-ilahi-husnah27/)
